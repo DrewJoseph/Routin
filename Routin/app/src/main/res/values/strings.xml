@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Routin</string>
+    <string name="title_activity_otp">OTP</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_locality">Locality</string>
+
+    <string name="country_prompt">Choose a country</string>
+    <string-array name="country_array">
+        <item>Puducherry</item>
+        <item>Bangalore</item>
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+    </string-array>
+    <string name="title_activity_homemain">homemain</string>
+    <string name="title_activity_dairy">Dairy</string>
+    <string name="title_activity_bread">Bread</string>
+
+
+</resources>
